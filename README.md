@@ -17,16 +17,16 @@ This will contain my course submissions for Design 6 at Stevens Institute of Tec
 - [x] Excercise 11
 
 ### Labs
-- [x] Lab 1 : Raspberry Pi setup
-- [x] Lab 2 : Raspberry Pi (Covid-19, prevented completion)
-- [x] Lab 3 : Python
-- [x] Lab 4 : Django and Flask
-- [x] Lab 5 : Crossbar.io and Paho (In Progress)
-- [x] Lab 6 :
-- [x] Lab 7 :
-- [x] Lab 8 :
-- [x] Lab 9 :
-- [x] Lab 10 :
+- [x] Lab 1
+- [x] Lab 2
+- [x] Lab 3
+- [x] Lab 4
+- [x] Lab 5
+- [x] Lab 6
+- [x] Lab 7
+- [x] Lab 8
+- [x] Lab 9
+- [x] Lab 10
 
 ### Contributions
 - [x] Typescript server 
