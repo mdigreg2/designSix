@@ -28,7 +28,7 @@ This will contain my course submissions for Design 6 at Stevens Institute of Tec
 - [x] Lab 9 :
 - [x] Lab 10 :
 
-##Contributions
+### Contributions
 - [x] Typescript server 
 - [x] Wordpress website on Ubuntu 16.04 
 - [x] TCP Port forwarding using NGROK
